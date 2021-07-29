@@ -1,6 +1,6 @@
 CCTV_Config = {}
 
-CCTV_Config.OpenCMD = cctv -- Controls if the minimap will be disabled when in a camera.
+CCTV_Config.OpenCMD = "cctv" -- Controls if the minimap will be disabled when in a camera.
 
 CCTV_Config.HideRadar = true -- Controls if the minimap will be disabled when in a camera.
 CCTV_Config.HideHUD = false -- Controls if the HUD will be disabled when in a camera. (Reference Utils.ToggleHUD() in Utils.lua)
