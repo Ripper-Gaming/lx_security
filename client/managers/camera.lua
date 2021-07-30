@@ -5,7 +5,7 @@ scaleformState = "UNLOADED"
 changedCamera = false
 
 -- Commands
-RegisterCommand("cctv", function(source, args, raw)
+RegisterCommand(CCTV_Config.OpenCMD, function(source, args, raw)
 	local ped = PlayerPedId()
 	if Utils.HasPermission() then
 		AddedLocations = {}
