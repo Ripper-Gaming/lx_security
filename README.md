@@ -1,4 +1,4 @@
-### ESX VERSION by Ripper - Full credit to aka_lucifer.
+### ESX VERSION by Ripper - Full credit to aka_lucifer. CURRENTLY IN PROGRESS.
 
 ### 📷 [LX Security] - Support will only be provided in our Discord below.
 
